@@ -1,0 +1,13 @@
+#box{
+    margin: auto;
+    width: 200px;
+    height:200px;
+    background: lightgray;
+    align-items: center;
+    cursor: pointer;
+}
+p{
+    color: white;
+    text-align: center;
+    padding: 12px 16px;
+}
